@@ -4,12 +4,12 @@ Predicting whether bank customers are likely to churn (leave the bank) using mac
 
 ---
 
-## 📌 **Project Goal**
+##  **Project Goal**
 To identify customers most likely to churn, so the bank can proactively reduce churn through targeted retention strategies.
 
 ---
 
-## 📊 **Dataset**
+##  **Dataset**
 The dataset contains anonymized bank customer information with the following key features:
 - **RowNumber**: Index of the row
 - **CustomerId**: Unique ID of the customer
@@ -35,7 +35,7 @@ The dataset contains anonymized bank customer information with the following key
 
 ---
 
-## ⚙️ **Method**
+##  **Method**
 - Data cleaning and preprocessing
 - Feature encoding (e.g., converting Geography & Gender to numeric values)
 - Trained a **Random Forest Classifier** to predict churn
@@ -44,7 +44,7 @@ The dataset contains anonymized bank customer information with the following key
 
 ---
 
-## 📈 **Results**
+##  **Results**
 Achieved good predictive performance (add your actual accuracy here, e.g., “Accuracy: 86%”).  
 Identified key drivers of churn, such as:
 - Lower credit scores
@@ -53,7 +53,7 @@ Identified key drivers of churn, such as:
 
 ---
 
-## 🧪 **How to Run**
+##  **How to Run**
 1. Clone this repository:
 ```bash
 git clone https://github.com/HarshVardhan-DSAI/bank-churn-prediction.git
