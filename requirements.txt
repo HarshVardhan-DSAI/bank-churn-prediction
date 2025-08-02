@@ -2,5 +2,7 @@ Libraries i have used in this project.
 
 pandas
 numpy
+matplotlib.pyplot
+seaborn
 scikit-learn
 joblib
